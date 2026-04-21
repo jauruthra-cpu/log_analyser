@@ -1,0 +1,8 @@
+INFO: system started
+INFO: etwork initiated
+ERROR: wifi module failed
+WARNING: low memory
+INFO: connection established
+ERROR: dhcp failed
+WARNING: high cpu usage
+INFO: reboot triggered
